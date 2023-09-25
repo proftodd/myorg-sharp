@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myorg-sharp", "myorg-sharp\myorg-sharp.csproj", "{93C31CB3-4E9F-4E6E-ADEF-5E5C31BE9D70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myorg-test", "myorg-test\myorg-test.csproj", "{3E5D30FF-3192-4B3A-B55C-78725E44711E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93C31CB3-4E9F-4E6E-ADEF-5E5C31BE9D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C31CB3-4E9F-4E6E-ADEF-5E5C31BE9D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C31CB3-4E9F-4E6E-ADEF-5E5C31BE9D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C31CB3-4E9F-4E6E-ADEF-5E5C31BE9D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E5D30FF-3192-4B3A-B55C-78725E44711E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5D30FF-3192-4B3A-B55C-78725E44711E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5D30FF-3192-4B3A-B55C-78725E44711E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5D30FF-3192-4B3A-B55C-78725E44711E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
